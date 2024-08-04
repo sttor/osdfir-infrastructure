@@ -29,6 +29,8 @@ jobs:
         run: |
           exit_code=0
           echo $PWD
+          echo $PATH
+          printenv
           echo "hello"
           # This request doesn't consume API calls.
           curl -Lkso $TEMP_FILE $DIFF_URL
