@@ -1,4 +1,4 @@
-## GRR/Fleetspeak Helm Chart
+## GRR/Fleetspeak Helm Char
 ## Please use this Helm chart for deploying GRR/Fleetspeak to a minikube Kubernetes environment.
 ##
 ## @section Global parameters
