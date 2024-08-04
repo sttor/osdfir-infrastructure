@@ -7,7 +7,7 @@ global:
   ## @param global.selfManagedMysql Enables a mySQL DB containter to be deployed into the cluster.
   ##
   selfManagedMysql: true
-  ## @param global.useResourceRequests Allocates resources to the pods.
+  ## @param global.useRsourceRequests Allocates resources to the pods.
   ##
   useResourceRequests: false
 
